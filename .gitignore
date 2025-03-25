@@ -1,0 +1,17 @@
+# Ignore Visual Studio cache and temporary files
+.vs/
+*.user
+*.suo
+*.cache
+*.VC.db
+*.exe
+*.dll
+
+# Ignore build outputs
+/build/
+*.o
+*.obj
+*.pdb
+
+# Ignore SQLite database files (if generated)
+*.db
